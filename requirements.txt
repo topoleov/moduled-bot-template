@@ -1,0 +1,9 @@
+pytelegrambotapi
+ujson
+websockets
+aiohttp
+pyyaml
+atlassian-python-api
+psycopg2-binary
+requests
+

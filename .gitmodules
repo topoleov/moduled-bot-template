@@ -1,0 +1,7 @@
+[submodule "api/mattermost"]
+	path = api/mattermost
+	url = git@github.com:topoleov/mattermost-bot-module.git
+
+[submodule "core/sqllib"]
+	path = core/sqllib
+	url = git@github.com:topoleov/sqlib-bot-module.git
